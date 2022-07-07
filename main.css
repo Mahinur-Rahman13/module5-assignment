@@ -18,20 +18,30 @@ footer {
 }
 
 #section1 {
-    background-image: linear-gradient(rgba(255, 255, 255, 0), rgb(0, 0, 0)), url(/milestone1/module5-assignment/donate-today-main/images/donation7.jpg);
-
+    background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.738)), url(donate-today-main/images/donation8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-.heading {
+h3 {
     color: white;
-    font-size: 69px;
-
-}
-
-.center {
+    font-size: 70px;
     text-align: center;
 }
 
-.box {
-    padding: 20% 20% 0%;
+.button {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    font-weight: 500;
+    background-color: #FF5959;
+    border-radius: 10%;
+    padding: 10px 35px;
+    width: 50%;
+
+}
+
+.pad {
+    padding: 20%;
+    text-align: center;
 }
