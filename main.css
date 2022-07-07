@@ -1,0 +1,35 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+
+}
+
+footer {
+    background-color: #0B0D17;
+    text-align: center;
+    padding: 2%;
+    font-size: 13px;
+}
+
+.be-humble {
+    font-family: 'Splash', cursive;
+    font-size: 30px;
+    color: #FF5959;
+}
+
+#section1 {
+    background-image: url(/milestone1/module5-assignment/donate-today-main/images/donation7.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: initial;
+}
+
+.heading {
+    color: white;
+    font-size: 69px;
+
+}
+
+.center {
+    text-align: center;
+}
